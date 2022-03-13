@@ -27,7 +27,7 @@ This guide gives an overview of how to configure GCP to trust {% data variables.
 
 {% data reusables.actions.oidc-security-notice %}
 
-## Adding a Google Cloud Workload Identity Provider
+## Adding a Google Cloud Workload Identity Providerjj
 
 To configure the OIDC identity provider in GCP, you will need to perform the following configuration. For instructions on making these changes, refer to [the GCP documentation](https://github.com/google-github-actions/auth).
 
